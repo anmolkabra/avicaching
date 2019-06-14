@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "XYR_file": "./data/XYR_file.txt",
+        "F_file": "./data/F_file.csv",
+        "is_avi_col": "AK",
+        "DIST_file": "./data/DIST_file.txt"
+    },
+    "rand": {
+        "locs_in_file": 500,
+        "XYR_file": {
+            "pre": "./data/random/randXYR",
+            "suff": ".txt"
+        },
+        "XYR_weights_file": {
+            "pre": "./data/random/randXYR",
+            "suff": "_3layer_weights.txt"
+        },
+        "F_file": {
+            "pre": "./data/random/randF",
+            "suff": ".csv",
+            "is_avi_col": "AK"
+        },
+        "DIST_file": {
+            "pre": "./data/random/randDIST",
+            "suff": ".txt"
+        }
+    }
+}
