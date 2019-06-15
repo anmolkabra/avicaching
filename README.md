@@ -1,6 +1,6 @@
 # GPU-accelerated Principal-Agent Game for Scalable Citizen Science
 
-Efficiently reducing sampling bias in citizen science programs using a _Avicaching_, principal-agent game in [_eBird_](https://ebird.org/home), a bird-observational dataset.
+Efficiently reducing sampling bias in citizen science programs using principal-agent games, such as _Avicaching_ in [_eBird_](https://ebird.org/home), a bird-observational dataset.
 
 **Authors:** [Anmol Kabra](https://anmolkabra.com/), [Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/), [Carla P. Gomes](https://www.cs.cornell.edu/gomes/).
 
